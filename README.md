@@ -31,4 +31,4 @@ http://ra-website.azurewebsites.net/
 + [Alfonso Flores] (https://github.com/FloresAlfonso)
 + [Valeria Hernandez] (https://github.com/ValeriaHernandezG)
 + [Daniel Núñez] (https://github.com/ernestoregue)
-+ [Juan Villaroeal] (https://github.com/JuanCarlosVillarroelCapetillo)
++ [Juan Villarroel] (https://github.com/JuanCarlosVillarroelCapetillo)
