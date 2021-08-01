@@ -17,7 +17,7 @@ SummerCloud | SummerHack | Innovaccion 2021
 
 ### Tiempo sin disponibilidad a un año
 
-### ¿Qué te pareció el evento?
+### Qué te pareció el evento
 
 
 
@@ -25,3 +25,7 @@ SummerCloud | SummerHack | Innovaccion 2021
 http://ra-website.azurewebsites.net/
 
 [Metro CDMX](https://bucket-contra.s3.amazonaws.com/wp-content/uploads/2020/03/New-Project-21-4.jpg?x23326)
+
+#Otra persona quien tambien nos a apoyado, pero por ciertas cuestiones no lo pudimos meter al repositorio es:
+#Juan Carlos Villarroel
+#cv0897@innovaccion.mx
