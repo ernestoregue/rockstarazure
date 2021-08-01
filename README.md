@@ -19,7 +19,7 @@ SummerCloud | SummerHack | Innovaccion 2021
 
 ### ¿Qué te pareció el evento?
 
-### Fue un evento bastante desafiante, en el cual nosotros nos divertimos bastante y dimos lo mejor de nosotros,1 pero tambien nos dimos cuenta de ciertas cadencias de nosotros como estudiantes, las cuales nos serviran para mejorar y seguir esforzandonos para ser mejores profesionistas en un futuro. 
+### Fue un evento bastante desafiante, en el cual nosotros nos divertimos bastante y dimos lo mejor de nosotros, pero tambien nos dimos cuenta de ciertas cadencias de nosotros como estudiantes, las cuales nos serviran para mejorar y seguir esforzandonos para ser mejores profesionistas en un futuro. 
 
 ## Nuestro sitio web
 http://ra-website.azurewebsites.net/
