@@ -3,9 +3,9 @@ SummerCloud | SummerHack | Innovaccion 2021
 
 ![Summer Hack (4)](https://user-images.githubusercontent.com/9124597/127756851-c8627116-f177-4198-966d-9003016d2060.png)
 
-# Nombre del Proyecto
+# Control Sanitización
 
-### Descripción del Proyecto a Entregar (Corta)
+### Objetivo : Mejorar la infraestructura creando un sitio web para revisar los puntos que funcionan una vez sanitizados
 
 ### Link al Tiktok
 
@@ -20,10 +20,6 @@ SummerCloud | SummerHack | Innovaccion 2021
 ### Qué te pareció el evento
 
 
-
-# Control Sanitización
-
-Objetivo : Mejorar la infraestructura creando un sitio web para revisar los puntos que funcionan una vez sanitizados
 
 ## Nuestro sitio web
 http://ra-website.azurewebsites.net/
