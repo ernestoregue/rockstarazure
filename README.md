@@ -9,7 +9,7 @@ SummerCloud | SummerHack | Innovaccion 2021
 
 ### Link al Tiktok
 
-#![DIseño de prototipo ](https://user-images.githubusercontent.com/87087900/127762710-8c451cfa-956e-42b0-9af0-aaa596db778c.jpg)
+#[DIseño de prototipo](https://user-images.githubusercontent.com/87087900/127762710-8c451cfa-956e-42b0-9af0-aaa596db778c.jpg)
 
 ### SLA Compuesto
 
