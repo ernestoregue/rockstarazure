@@ -11,7 +11,8 @@ SummerCloud | SummerHack | Innovaccion 2021
 
 [Diseño de prototipo](https://user-images.githubusercontent.com/87087900/127762710-8c451cfa-956e-42b0-9af0-aaa596db778c.jpg)
 
-### SLA Compuesto
+### [SLA Compuesto](https://user-images.githubusercontent.com/87087900/127764016-9fdddb08-854e-4040-a50e-db9938bad684.jpg)
+
 
 ### TCO 3 años y [Precio Total por mes](https://user-images.githubusercontent.com/87087900/127763711-1ab50ccd-3339-40ae-9951-08e8aee7e750.jpg)
 )
