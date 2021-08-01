@@ -18,7 +18,7 @@ SummerCloud | SummerHack | Innovaccion 2021
 
 
 
-### Fue un evento bastante desafiante, en el cual nosotros nos divertimos bastante y dimos lo mejor de nosotros, pero tambien nos dimos cuenta de ciertas cadencias de nosotros como estudiantes, las cuales nos serviran para mejorar y seguir esforzandonos para ser mejores profesionistas en un futuro. 
+### Fue un evento bastante desafiante, en el cual nosotros nos divertimos bastante y dimos lo mejor de nosotros, pero tambien nos dimos cuenta de ciertas cadencias de nosotros como estudiantes, las cuales nos serviran para mejorar y seguir esforzandonos para ser mejores profesionistas en un futuro. Asimismo, fue una experiencia muy padre, aprendimos mucho de cada uno, nos complementamos con los conociminetos de cada quien. 
 
 ### Tiempo sin disponibilidad a un año: 118hrs 
 
