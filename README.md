@@ -8,7 +8,7 @@ SummerCloud | SummerHack | Innovaccion 2021
 ### Objetivo: Mejorar la infraestructura creando un sitio web para revisar los puntos que funcionan una vez sanitizados
 
 ### Link al Tiktok
-https://user-images.githubusercontent.com/87087900/127762710-8c451cfa-956e-42b0-9af0-aaa596db778c.jpg
+[Diseño del sistema](https://user-images.githubusercontent.com/87087900/127762710-8c451cfa-956e-42b0-9af0-aaa596db778c.jpg)
 
 ### [SLA Compuesto](https://user-images.githubusercontent.com/87087900/127764016-9fdddb08-854e-4040-a50e-db9938bad684.jpg)
 
