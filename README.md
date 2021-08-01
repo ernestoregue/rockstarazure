@@ -19,13 +19,14 @@ SummerCloud | SummerHack | Innovaccion 2021
 
 ### ¿Qué te pareció el evento?
 
-
+### Fue un evento bastante desafiante, en el cual nosotros nos divertimos bastante y dimos lo mejor de nosotros,1 pero tambien nos dimos cuenta de ciertas cadencias de nosotros ### como estudiantes, las cuales nos serviran para mejorar y seguir esforzandonos para ser mejores profesionistas en un futuro. 
 
 ## Nuestro sitio web
 http://ra-website.azurewebsites.net/
 
 [Metro CDMX](https://bucket-contra.s3.amazonaws.com/wp-content/uploads/2020/03/New-Project-21-4.jpg?x23326)
 
-# Otra persona quien tambien nos a apoyado, pero por ciertas cuestiones no lo pudimos meter al repositorio es:
+
+### Otra persona quien tambien nos a apoyado, pero por ciertas cuestiones no lo pudimos meter al repositorio es:
 # Juan Carlos Villarroel
 # cv0897@innovaccion.mx
