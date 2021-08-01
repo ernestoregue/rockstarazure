@@ -17,7 +17,7 @@ SummerCloud | SummerHack | Innovaccion 2021
 
 ### Tiempo sin disponibilidad a un año
 
-### Qué te pareció el evento
+### ¿Qué te pareció el evento?
 
 
 
