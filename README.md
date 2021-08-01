@@ -13,7 +13,8 @@ SummerCloud | SummerHack | Innovaccion 2021
 
 ### SLA Compuesto
 
-### TCO 3 años y Precio Total por mes
+### TCO 3 años y [Precio Total por mes](![Datos del presupuesto](https://user-images.githubusercontent.com/87087900/127763711-1ab50ccd-3339-40ae-9951-08e8aee7e750.jpg)
+)
 
 ### Tiempo sin disponibilidad a un año
 
