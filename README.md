@@ -7,7 +7,7 @@ SummerCloud | SummerHack | Innovaccion 2021
 
 ### Objetivo: Mejorar la infraestructura creando un sitio web para revisar los puntos que funcionan una vez sanitizados
 
-### Link al Tiktok
+### [Link al Tiktok](https://vm.tiktok.com/ZMd3eJYwu/)
 [Diseño del sistema](https://user-images.githubusercontent.com/87087900/127762710-8c451cfa-956e-42b0-9af0-aaa596db778c.jpg)
 
 ### [SLA Compuesto](https://user-images.githubusercontent.com/87087900/127764016-9fdddb08-854e-4040-a50e-db9938bad684.jpg)
@@ -19,7 +19,7 @@ SummerCloud | SummerHack | Innovaccion 2021
 
 ### Fue un evento bastante desafiante, en el cual nosotros nos divertimos bastante y dimos lo mejor de nosotros, pero tambien nos dimos cuenta de ciertas cadencias de nosotros como estudiantes, las cuales nos serviran para mejorar y seguir esforzandonos para ser mejores profesionistas en un futuro. 
 
-### Tiempo sin disponibilidad a un año
+### Tiempo sin disponibilidad a un año:118hrs 
 
 ## Nuestro sitio web
 http://ra-website.azurewebsites.net/
